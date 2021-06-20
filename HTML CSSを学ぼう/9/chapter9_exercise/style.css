@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading {
+  width: 100%;
+  height: 50px;
+  background-color: #ff9a4b;
+}
+
+.main-box {
+  width: 100%;
+  margin: 50px auto;
+}
+
